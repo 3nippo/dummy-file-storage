@@ -1,5 +1,5 @@
 {
     "clangd.arguments": ["-header-insertion=never"],
-    "python.pythonPath": "/usr/local/bin/python3",
-    "clangd.semanticHighlighting": true
+    "clangd.semanticHighlighting": true,
+    "clangd.path": "/usr/local/Cellar/llvm/11.1.0/bin/clangd"
 }
